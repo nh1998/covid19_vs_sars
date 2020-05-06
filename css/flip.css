@@ -1,0 +1,28 @@
+section {
+  width: 100%;
+  height: 500px;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+#a {
+  background-image: url("virus.jpg");
+  padding-left: 100px;
+}
+
+#b {
+  background-image: url("virus02.jpg");
+  padding-left: 100px;
+}
+
+#c {
+  background-image: url("virus03.jpg");
+  padding-left: 100px;
+}
+
+#d {
+  background-image: url("virus04.jpg");
+  padding-left: 100px;
+  padding-bottom: 100px;
+}
